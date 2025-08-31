@@ -1,8 +1,4 @@
 
-# Expense-Tracker
-=======
-# Expense Tracker (Angular 17)
-
-Notes:
+# Expense-Tracke
 - Uses ng2-charts + chart.js for charts.
 
